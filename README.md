@@ -2,6 +2,7 @@
 Prompt Library for Demo
 
 **🔤 Writing & Editing**
+
 Rewrite for clarity
 Prompt: “Rewrite the following paragraph to improve clarity and conciseness: [insert text].”
 
@@ -12,6 +13,7 @@ Story idea generator
 Prompt: “Give me 3 unique short story ideas in the sci-fi genre, suitable for a 3000-word story.”
 
 **💼 Business & Marketing**
+
 Value proposition
 Prompt: “Create a compelling value proposition for a mobile app that helps users track personal finances.”
 
